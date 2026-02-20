@@ -80,11 +80,11 @@ This project was created to:
 ## 👤 Author
 
 **Muhammad Nadeem**  
-Aspiring Data Analyst  
+Data Analyst  
 
 **Skills:** Excel | Power BI | Data Analytics | Data Visualization  
 
-🔗 *LinkedIn project link will be added after GitHub upload*
+🔗 *Link project* https://github.com/nadeem8660/sales-dashboard-by-nadeem/blob/main/Sales%20Dashboard%20By%20Nadeem.pbix
 
 ---
 
@@ -94,5 +94,4 @@ If you like this project:
 
 - ⭐ Star the repository  
 - 🔁 Share it on LinkedIn  
-- 💬 Provide feedback  
-
+- 💬 Provide feedback
