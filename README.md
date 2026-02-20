@@ -1,7 +1,7 @@
 # Sales Dashboard By Nadeem
 A Power BI–based Sales Dashboard for analyzing sales performance, trends, and KPIs through interactive visualizations.
 # 📊 Sales Dashboard | Power BI
-
+https://github.com/nadeem8660/sales-dashboard-by-nadeem/blob/main/Sales%20Dashboard%20By%20Nadeem.png
 An **interactive Sales Dashboard** developed using **Microsoft Power BI** to analyze sales performance, revenue trends, and business insights.  
 This project highlights my ability to transform **raw sales data into meaningful visual insights** for effective decision-making.
 
