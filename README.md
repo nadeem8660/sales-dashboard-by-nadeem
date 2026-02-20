@@ -84,7 +84,9 @@ Data Analyst
 
 **Skills:** Excel | Power BI | Data Analytics | Data Visualization  
 
-🔗 *Link project* https://github.com/nadeem8660/sales-dashboard-by-nadeem/blob/main/Sales%20Dashboard%20By%20Nadeem.pbix
+🔗 *LinkedIn Project* https://www.linkedin.com/in/nadeem984/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAADvlkmYBqbfxejWwACYSXBNTU8_U4fgEHDc
+
+🔗 *Link Project* https://github.com/nadeem8660/sales-dashboard-by-nadeem/blob/main/Sales%20Dashboard%20By%20Nadeem.pbix
 
 ---
 
